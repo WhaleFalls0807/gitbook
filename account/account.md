@@ -2,11 +2,11 @@
 
    关闭邮箱告警
 
-![png](/Users/whalefalls/Desktop/project/book/picture/1688565810784.jpg)
+![png](../picture/1688565810784.jpg)
 
 更换告警邮箱
 
- ![png](/Users/whalefalls/Desktop/project/book/picture/1688566179753.jpg)
+ ![png](../picture/1688566179753.jpg)
 
 
 
